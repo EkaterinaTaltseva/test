@@ -1,5 +1,4 @@
 
-## View this working example >>>> https://table-42b26.web.app
 
 ## Project setup
 ```
